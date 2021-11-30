@@ -1,0 +1,22 @@
+.single-container{
+    width: 100%;
+   margin-right: 40px;
+    height: 10px;
+}
+.container-image{
+    display: flex;
+    justify-content: space-between;
+}
+.single-container img{
+    width: 100%;
+    height: 50vh;
+
+}
+.single-container p{
+    font: 20px sans-serif;
+    opacity: 0.5;
+    margin-left: 20px;
+    margin-top: 60px;
+    text-align: center;
+    
+}
