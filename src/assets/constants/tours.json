@@ -7,7 +7,8 @@
       "images": ["https://www.pexels.com/photo/2403319/download/", "https://www.pexels.com/photo/green-trees-under-blue-sky-during-sunset-9580151/"],
       "dateScheduled": "11 August 2010",
       "dueDate": "15 August 2010",
-      "phone": "+250 788 788 788"
+      "phone": "+250 788 788 788",
+      "price":"$600"
     },
   
     {
@@ -18,7 +19,8 @@
       "images": ["https://images.pexels.com/photos/172484/pexels-photo-172484.jpeg?cs=srgb&dl=pexels-photomix-company-172484.jpg&fm=jpg", "https://images.pexels.com/photos/3831085/pexels-photo-3831085.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3831085.jpg&fm=jpg"],
       "dateScheduled": "12 August 2010",
       "dueDate": "14 August 2020",
-      "phone": "+250 788 788 788"
+      "phone": "+250 788 788 788",
+      "price":"$800"
     },
     {
       "title": " Gako Forest",
@@ -28,7 +30,8 @@
       "images": ["https://images.pexels.com/photos/7968305/pexels-photo-7968305.jpeg?cs=srgb&dl=pexels-george-pak-7968305.jpg&fm=jpg", "https://images.pexels.com/photos/5472599/pexels-photo-5472599.jpeg?cs=srgb&dl=pexels-ryutaro-tsukata-5472599.jpg&fm=jpg"],
       "dateScheduled": "10 August 2010",
       "dueDate": "13 july 2010",
-      "phone": "+250 788 788 788"
+      "phone": "+250 788 788 788",
+      "price":"$200"
     },
     {
       "title": " Akagera National Park",
@@ -38,7 +41,8 @@
       "images": ["https://images.pexels.com/photos/2161467/pexels-photo-2161467.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-2161467.jpg&fm=jpg", "https://images.pexels.com/photos/4577707/pexels-photo-4577707.jpeg?cs=srgb&dl=pexels-rachel-claire-4577707.jpg&fm=jpg"],
       "dateScheduled": "10 August 2010",
       "dueDate": "16 september 2010",
-      "phone": "+250 788 788 788"
+      "phone": "+250 788 788 788",
+      "price":"$100"
     }
     
   ]
