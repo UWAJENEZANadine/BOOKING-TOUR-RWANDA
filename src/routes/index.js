@@ -34,7 +34,7 @@ const Index = () => {
                             </Routes>
 
                         </DashLayout>  )
-                   :(<>you are not allowed</>)
+                   :(<></>)
                     }
                     </>
     )}
