@@ -64,10 +64,10 @@ const Contact = () => {
                 <div className="icons">
                     <h6>Social media</h6>
                   
-                    <a href="https://twitter.com/UWAJENEZANADIN4"><TwitterOutlined className="icon-style" style={{fontSize: '7em'}}  /></a>
-                    <a href="https://www.linkedin.com/in/uwajeneza-nadine-9686091b6/"><LinkedinOutlined className="icon-style" style={{fontSize: '7em'}} /></a>
-                    <a href="https://www.instagram.com/"><InstagramOutlined className="icon-style" style={{fontSize: '7em'}} /></a>
-                    <a href="https://www.facebook.com/"><FacebookOutlined className="icon-style" style={{fontSize: '7em'}} /></a>
+                    <a href="https://twitter.com/UWAJENEZANADIN4"><TwitterOutlined className="icon-style" style={{fontSize: '4em'}}  /></a>
+                    <a href="https://www.linkedin.com/in/uwajeneza-nadine-9686091b6/"><LinkedinOutlined className="icon-style" style={{fontSize: '4em'}} /></a>
+                    <a href="https://www.instagram.com/"><InstagramOutlined className="icon-style" style={{fontSize: '4em'}} /></a>
+                    <a href="https://www.facebook.com/"><FacebookOutlined className="icon-style" style={{fontSize: '4em'}} /></a>
 
                 </div>
 
