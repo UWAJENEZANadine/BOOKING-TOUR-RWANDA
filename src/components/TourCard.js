@@ -24,7 +24,7 @@ const TourCard = ({data})=> {
                 background: "whitesmoke", width: "50%", height: "100%", float: "right",
                 textAlign: "center", padding: "20px"
             }}>
-                <h3 style={{color:"rgba(138, 95, 10, 0.925)", fontsize:"65px"}}>{data.title}</h3>
+                <h3 style={{color:"rgba(138, 95, 10, 0.925)", fontsize:"25px"}}>{data.title}</h3>
                 <p style={{ fontSize: "18px", color: "black", marginBottom: "10px" }}>{data.description}</p>
                 <span style={{ display: "flex", justifyContent: "space-between", marginTop:"20px", fontWeight:"700"}}>
                     <label>Date Scheduled <br />
