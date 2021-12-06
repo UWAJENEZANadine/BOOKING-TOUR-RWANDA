@@ -1,5 +1,6 @@
 import React from "react"
 import { Form, Input, DatePicker, Space, InputNumber, Button } from "antd";
+import { Link } from "react-router-dom";
 
 const NewTourView = () => {
     const onFinish = (values) => {
@@ -43,7 +44,7 @@ const NewTourView = () => {
                 <Input />
             </Form.Item>
 
-            <Button htmlType="submit" type="primary"> Register Tour</Button>
+            <Link to ="/home"><Button htmlType="submit" type="primary"> Register Tour</Button></Link>
         </Form>
 
     )
