@@ -12,8 +12,6 @@
     display: flex;
     box-shadow: 0px 15px 15px rgba(138, 95, 10, 0.925);
     
- 
-
     
 }
 img{
@@ -26,9 +24,14 @@ img{
 .nav-bar{
     width: 85%;
     text-align: center;
-   
-   
  
+}
+.nav-nav{
+    
+    background-color: rgba(15, 207, 31, 0.507);
+    margin-left: 15em;
+    border-radius: 0px 0px 70px 70px;
+    width: 70%;
 }
 .nav-bar a{
     display: inline-block;
@@ -38,7 +41,9 @@ img{
     float: right;
     color: white;
     font-size: 20px;
-    height: 16vh;
+    height: 14vh;
+    
+ 
    
 }
 .nav-bar a:hover{

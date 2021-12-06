@@ -11,7 +11,7 @@ const Footer = () => {
         <>
             <div className="footer-footer">
                 <div className="useful-links">
-                    <h1> Links</h1>
+                    <h1 style={{color:"white"}}> Links</h1>
 
                     <a href="./home">Home </a>
                     <a href="./contact">Contact </a>
