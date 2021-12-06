@@ -34,7 +34,7 @@
      margin-bottom: 20px;
  }
  .qutoe-div p{
-     opacity: 0.5;
+     /* opacity: 0.5; */
      margin-bottom: 25px;
  }
  .line-container{
@@ -460,7 +460,7 @@ h6{
 }
 .background-containee{
     height: 165vh;
-    background: lightslategray;
+    background: lightgray;
     margin-top: 130px;
 
    
