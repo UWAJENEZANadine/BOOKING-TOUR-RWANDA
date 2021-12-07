@@ -34,7 +34,7 @@ const Contact = () => {
                             <hr />
                             <input placeholder="Text us" required></input><br />
                             <hr />
-                            <a href="./home">send</a>
+                            {/* <a href="./home">send</a> */}
                         </div>
 
                     </div>
