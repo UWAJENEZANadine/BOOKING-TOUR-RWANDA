@@ -24,14 +24,10 @@ img{
 .nav-bar{
     width: 85%;
     text-align: center;
+    margin-left: 20em;
  
 }
-.nav-nav{
-    
-    margin-left: 15em;
-    border-radius: 0px 0px 70px 70px;
-    width: 70%;
-}
+
 .nav-bar a{
     display: inline-block;
     padding: 30px;
