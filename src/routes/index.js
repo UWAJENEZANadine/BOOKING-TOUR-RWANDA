@@ -24,8 +24,6 @@ const Index = () => {
                 <Route element={<Contact />} path="/contact"></Route>
                 <Route element={<ToursView />} path="/tours"></Route>
 
-
-
             </Routes>
        
            
